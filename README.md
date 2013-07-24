@@ -1,7 +1,6 @@
 Chartboost-MonoTouch
 ====================
 
-#Chartboost-MonoTouch
 [Chartboost](https://chartboost.com) binding for MonoTouch. I decided not to implement events system, only delegates. It works well with my Xamarin application that I'm developing right now.
 
 #Adding to your project
